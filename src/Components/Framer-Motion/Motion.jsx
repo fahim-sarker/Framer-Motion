@@ -1,7 +1,7 @@
 import React from "react"
 import { delay, easeInOut, motion, useScroll } from "framer-motion"
 
-function App() {
+function Motion() {
 
   const gridcontainer = {
     hidden: { opacity: 0 },
@@ -229,4 +229,4 @@ function App() {
   )
 }
 
-export default App
+export default Motion
