@@ -1,5 +1,5 @@
 import React from "react"
-import { delay, easeInOut, motion, useScroll } from "framer-motion"
+import { easeInOut, useScroll } from "framer-motion"
 
 function Motion() {
 
